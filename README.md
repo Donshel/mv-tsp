@@ -23,9 +23,9 @@ As an instance of TSP, we have used the `2734` belgian cities and have added a m
 
 ## Authors
 
-* **François Rozet** - [Donshel](https://github.com/Donshel)
+* **François Rozet** - [francois-rozet](https://github.com/francois-rozet)
 * **Pedro José Correia Duarte** - [pedrojcd](https://github.com/pedrojcd)
 
 ## References
 
-* [_Méthodes de Monte-Carlo par chaînes de Markov_](https://github.com/Donshel/math0488-1/) - **François Rozet**
+* [_Méthodes de Monte-Carlo par chaînes de Markov_](https://github.com/francois-rozet/math0488-1/) - **François Rozet**
